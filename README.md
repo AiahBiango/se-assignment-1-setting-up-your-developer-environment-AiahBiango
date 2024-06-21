@@ -8,7 +8,10 @@ Setup Development Environment
 #Objective:
 This assignment aims to familiarize you with the tools and configurations necessary to set up an efficient developer environment for software engineering projects. Completing this assignment will give you the skills required to set up a robust and productive workspace conducive to coding, debugging, version control, and collaboration.
 
-#Tasks:
+#Tasks: 
+
+
+Please Download the pdf file of my assignment attached because I found out that GitHub does not open pdf directly.
 
 1. Select Your Operating System (OS):
    Choose an operating system that best suits your preferences and project requirements. Download and Install Windows 11. https://www.microsoft.com/software-download/windows11
@@ -55,6 +58,10 @@ This assignment aims to familiarize you with the tools and configurations necess
 
 9. Document Your Setup:
     Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
+
+    ANS: Document outlining steps taken to set up my developer evnironment.
+    ![SE-Assignment-Setting up Your Developer Environment-AiahBiango](<SE-Assignment-Setting up Your Developer Environment-AiahBiango.pdf>)
+    
 
 #Deliverables:
 - Document detailing the setup process with step-by-step instructions and screenshots where necessary.
